@@ -1,6 +1,7 @@
-Certainly! Here is the entire GitHub repository description in a single code block:
 
-```markdown
+![App Screenshot](![image](https://github.com/user-attachments/assets/7ff92cf4-c56a-4012-b137-501a5384f7c2)
+)
+
 # Advanced To-Do App
 
 This is an advanced To-Do List application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The application features a modern and responsive design, allowing users to manage their tasks efficiently with enhanced functionality and user experience.
@@ -77,4 +78,4 @@ Contributions are welcome! Please open an issue or a pull request if you'd like 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
 
-Replace `yourusername` with your GitHub username before pasting.
+Replace `yourusername` with your GitHub username. Ensure that `image.png` is correctly placed in your repository’s root directory or adjust the path if it's located elsewhere.
