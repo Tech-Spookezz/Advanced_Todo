@@ -1,6 +1,5 @@
 
-![App Screenshot](![image](https://github.com/user-attachments/assets/"C:\Users\bhavi\Pictures\Screenshots\image.png")
-)
+![App Screenshot](./image.png)
 
 # Advanced To-Do App
 
