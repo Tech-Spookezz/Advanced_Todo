@@ -1,5 +1,5 @@
 
-![App Screenshot](![image](https://github.com/user-attachments/assets/7ff92cf4-c56a-4012-b137-501a5384f7c2)
+![App Screenshot](![image](https://github.com/user-attachments/assets/"C:\Users\bhavi\Pictures\Screenshots\image.png")
 )
 
 # Advanced To-Do App
