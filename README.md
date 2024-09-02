@@ -72,9 +72,3 @@ This is an advanced To-Do List application built using the MERN (MongoDB, Expres
 
 Contributions are welcome! Please open an issue or a pull request if you'd like to contribute to the project.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
-Replace `yourusername` with your GitHub username. Ensure that `image.png` is correctly placed in your repository’s root directory or adjust the path if it's located elsewhere.
